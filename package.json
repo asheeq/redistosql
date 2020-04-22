@@ -1,0 +1,21 @@
+{
+  "name": "ssdproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-redis": "^1.1.7",
+    "date-and-time": "^0.13.1",
+    "dateformat": "^3.0.3",
+    "enum": "^3.0.3",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "redis": "^3.0.2"
+  }
+}
